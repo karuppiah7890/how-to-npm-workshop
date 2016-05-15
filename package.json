@@ -1,0 +1,19 @@
+{
+  "name": "@karuppiah/npm-workshop",
+  "version": "1.0.0",
+  "description": "how-to-npm workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuppiah7890/how-to-npm-workshop.git"
+  },
+  "author": "karuppiah7890",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karuppiah7890/how-to-npm-workshop/issues"
+  },
+  "homepage": "https://github.com/karuppiah7890/how-to-npm-workshop#readme"
+}
